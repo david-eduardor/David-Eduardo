@@ -16,15 +16,15 @@ HOLA, SOY DAVID EDUARDO
 ```
 Soy David@github
 -------------------------
-💻 Soy un desarrollador Full Stack autodidacta y desarrollador de Machine Learning
-📚 A
-📝
-🔭 Un
-🌱
-🌟
-🚩
-💖 Es
-🎵 Yo
+💻 hola, me llamo david eduardo.
+📚 Soy estudiante de Desarrollo de Sistemas.
+📝Tengo un gran interés por el lenguage de programacion.
+🔭 actumalmente trabajo en una enpresa de alimentos balaceados.
+🌱 aprediendo todo sobre sistemas.
+🌟Mis lenguajes principales: php, JavaScript ,html y pyton.
+🚩Me interesa el lenguage de programcion.
+💖 Estoy en una relación algo complicada en el lenguage de programacion.
+🎵 me encanta escuchar jeren kley , Jen Balbin , Grupo Fronte  y Paulo Londra.
 ```
 <hr>
 
